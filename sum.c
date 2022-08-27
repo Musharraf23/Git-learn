@@ -6,6 +6,6 @@ int main()
 
     sum = number1 + number2;
 
-    printf(" this is %d + %d = %d", number1, number2, sum);
+    printf(" this %d + %d = %d", number1, number2, sum);
     return 0;
 }
